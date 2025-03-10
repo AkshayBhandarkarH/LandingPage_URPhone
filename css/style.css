@@ -8,7 +8,7 @@
 
 .container {
   position: relative;
-  width: 50vw;
+  width: 100%;
   margin-left: 10%;
 }
 
@@ -21,6 +21,8 @@ html,
 body {
   -ms-overflow-style: none;
   scrollbar-width: none;
+  width: 100vw;
+  height: 100%;
 }
 
 html::-webkit-scrollbar,
@@ -76,7 +78,7 @@ li a:active {
 }
 
 .footer {
-  height: 30vh;
+  height: 100%;
   margin-top: 10%;
 }
 
