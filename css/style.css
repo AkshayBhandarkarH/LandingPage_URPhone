@@ -83,6 +83,21 @@ li a:active {
   height: 10vh;
 }
 
+@media (min-width: 100px) {
+  input,
+  button {
+    height: auto;
+    padding: auto;
+  }
+}
+
+@media (min-width: 300px) {
+  input,
+  button {
+    height: auto;
+    padding: auto;
+  }
+}
 @media (min-width: 576px) {
   input,
   button {
