@@ -6,6 +6,10 @@
   scroll-behavior: smooth;
 }
 
+.container {
+  width: 100%;
+}
+
 .featureWrap {
   display: grid;
   grid-template-columns: repeat(2, 3fr);
