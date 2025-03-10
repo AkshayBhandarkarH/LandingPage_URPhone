@@ -82,3 +82,43 @@ li a:active {
 .teamScope {
   height: 10vh;
 }
+
+@media (min-width: 576px) {
+  input,
+  button {
+    height: auto;
+    padding: auto;
+  }
+}
+
+@media (min-width: 768px) {
+  input,
+  button {
+    height: auto;
+    padding: auto;
+  }
+}
+
+@media (min-width: 992px) {
+  input,
+  button {
+    height: auto;
+    padding: auto;
+  }
+}
+
+@media (min-width: 1200px) {
+  input,
+  button {
+    height: auto;
+    padding: auto;
+  }
+}
+
+@media (min-width: 1400px) {
+  input,
+  button {
+    height: auto;
+    padding: auto;
+  }
+}
